@@ -1,3 +1,5 @@
-# Welcome to my blog
+## Welcome to Amber's blog!
 
-I'm glad you are here. I plan to talk about ...
+I'm so glad you're here. :blush: I want to share my _amazing_ story with you, the story of how I learned **Markdown**.
+
+
